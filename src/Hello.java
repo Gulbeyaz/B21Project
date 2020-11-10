@@ -7,5 +7,6 @@ public class Hello {
         //now i am ready to make more commits
         //but do i need to share again??
         //no, its time to commit and just push!!
+        //testing adding new lines to my codes. so i can push it to github.com
     }
 }
